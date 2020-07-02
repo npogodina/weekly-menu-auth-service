@@ -1,8 +1,8 @@
 {
   "name": "weekly-menu-auth-service",
   "version": "1.0.0",
-  "author": "Ariel Weinberger <ariel@codingly.io>",
-  "description": "Demonstration of protecting API gateway endpoints with auth0",
+  "author": "Nataliya Pogodina <n.pogodina@gmail.com>",
+  "description": "Auth0 authorizer for Weekly Menu.",
   "license": "MIT",
   "dependencies": {
     "jsonwebtoken": "^8.1.0"
